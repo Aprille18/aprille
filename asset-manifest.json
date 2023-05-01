@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aprille/static/css/main.6fe8e21c.css",
+    "main.js": "/aprille/static/js/main.22aec9da.js",
+    "static/js/787.faa06649.chunk.js": "/aprille/static/js/787.faa06649.chunk.js",
+    "static/media/sin.gif": "/aprille/static/media/sin.abe7f4c59ffa1568eb6d.gif",
+    "index.html": "/aprille/index.html",
+    "main.6fe8e21c.css.map": "/aprille/static/css/main.6fe8e21c.css.map",
+    "main.22aec9da.js.map": "/aprille/static/js/main.22aec9da.js.map",
+    "787.faa06649.chunk.js.map": "/aprille/static/js/787.faa06649.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fe8e21c.css",
+    "static/js/main.22aec9da.js"
+  ]
+}
